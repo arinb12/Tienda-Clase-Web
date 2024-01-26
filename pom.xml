@@ -14,7 +14,7 @@
 	<name>Tienda</name>
 	<description>Proyecto en el curso de Web</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>19</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
